@@ -1,0 +1,7 @@
+In this video we created three tables: data, items, and users. Here, we include the CREATE TABLE calls.
+
+CREATE TABLE data (userid INTEGER, itemid INTEGER, rating INTEGER, timestamp INTEGER);
+
+CREATE TABLE items (movieid INTEGER, title TEXT, releasedate TEXT, videoreleasedate TEXT, imdburl TEXT, unknown INTEGER, action INTEGER, adventure INTEGER, animation INTEGER, childrens INTEGER, comedy INTEGER, crime INTEGER, documentary INTEGER, drama INTEGER, fantasy INTEGER, filmnoir INTEGER, horror INTEGER, musical INTEGER, mystery INTEGER, romance INTEGER, scifi INTEGER, thriller INTEGER, war INTEGER, western INTEGER);
+
+CREATE TABLE users (userid INTEGER, age INTEGER, gender TEXT, occupation TEXT, zipcode INTEGER);
