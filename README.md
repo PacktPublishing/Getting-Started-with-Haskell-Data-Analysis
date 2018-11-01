@@ -1,9 +1,9 @@
 
 # Getting Started with Haskell Data Analysis
 
-<a href="Packt UTM URL of the Book"><img src="Cover Image URL of the Book" alt="Getting Started with Haskell Data Analysis" height="256px" align="right"></a>
+<a href="https://www.packtpub.com/big-data-and-business-intelligence/getting-started-haskell-data-analysis?utm_source=github&utm_medium=repository&utm_campaign=9781789802863"><img src="https://www.packtpub.com/sites/default/files/B12542.png" alt="Getting Started with Haskell Data Analysis" height="256px" align="right"></a>
 
-This is the code repository for [Getting Started with Haskell Data Analysis](Packt UTM URL of the Book), published by Packt.
+This is the code repository for [Getting Started with Haskell Data Analysis](https://www.packtpub.com/big-data-and-business-intelligence/getting-started-haskell-data-analysis?utm_source=github&utm_medium=repository&utm_campaign=9781789802863), published by Packt.
 
 **Put your data analysis techniques to work and generate publication-ready visualizations**
 
@@ -17,7 +17,7 @@ This book covers the following exciting features: <First 5 What you'll learn poi
 * Learn the versatility of SELECT queries for slicing data into smaller chunks
 * Apply regular expressions in large-scale datasets using both CSV and SQLite3 files
 
-If you feel this book is for you, get your [copy](https://www.amazon.com/dp/10DigitISBN) today!
+If you feel this book is for you, get your [copy](https://www.amazon.com/dp/1789802865) today!
 
 <a href="https://www.packtpub.com/?utm_source=github&utm_medium=banner&utm_campaign=GitHubBanner"><img src="https://raw.githubusercontent.com/PacktPublishing/GitHub/master/GitHub.png" 
 alt="https://www.packtpub.com/" border="5" /></a>
@@ -28,62 +28,49 @@ All of the code is organized into folders. For example, Chapter02.
 
 The code will look like the following:
 ```
-if (test expression)
 {
-  Statement upon condition is true
-}
+ "cells": [
+  {
+   "cell_type": "code",
+   "execution_count": 1,
+   "metadata": {
+    "collapsed": true
+   },
+   "outputs": [],
+   "source": [
+    "import Text.CSV"
+   ]
+  },
 ```
 
 **Following is what you need for this book:**
-Copy and paste the Audience section from the EPIC.
+This book is intended for people who wish to expand their knowledge of statistics and data analysis via real-world examples. A basic understanding of the Haskell language is expected. If you are feeling brave, you can jump right into the functional programming style.
 
-With the following software and hardware list you can run all code files present in the book (Chapter 1-15).
+With the following software and hardware list you can run all code files present in the book (Chapter 1-6).
 
 ### Software and Hardware List
 
 | Chapter  | Software required                   | OS required                        |
 | -------- | ------------------------------------| -----------------------------------|
-| 1        | R version 3.3.0                     | Windows, Mac OS X, and Linux (Any) |
-| 2        | Rstudio Desktop 0.99.903            | Windows, Mac OS X, and Linux (Any) |
-| 3        | Rstudio Desktop 0.99.903            | Windows, Mac OS X, and Linux (Any) |
-| 4        | Rstudio Desktop 0.99.903            | Windows, Mac OS X, and Linux (Any) |
-| 5        | Rstudio Desktop 0.99.903            | Windows, Mac OS X, and Linux (Any) |
-| 6        | Rstudio Desktop 0.99.903            | Windows, Mac OS X, and Linux (Any) |
-| 7        | Rstudio Desktop 0.99.903            | Windows, Mac OS X, and Linux (Any) |
-| 8        | Rstudio Desktop 0.99.903            | Windows, Mac OS X, and Linux (Any) |
-| 9        | Rstudio Desktop 0.99.903            | Windows, Mac OS X, and Linux (Any) |
-| 10        | Rstudio Desktop 0.99.903            | Windows, Mac OS X, and Linux (Any) |
-| 11        | Rstudio Desktop 0.99.903            | Windows, Mac OS X, and Linux (Any) |
-| 12        | Rstudio Desktop 0.99.903            | Windows, Mac OS X, and Linux (Any) |
-| 13        | Rstudio Desktop 0.99.903            | Windows, Mac OS X, and Linux (Any) |
-| 14        | Rstudio Desktop 0.99.903            | Windows, Mac OS X, and Linux (Any) |
-| 15        | Rstudio Desktop 0.99.903            | Windows, Mac OS X, and Linux (Any) |
+| 1        | Haskell                             | Windows, Mac OS X, and Linux (Any) |
 
 
-We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it](Graphics Bundle Link).
-
-## Code in Action
-
-Click on the following link to see the Code in Action:
-
-[Placeholder link](www.youtube.com/URL)
+We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it](https://www.packtpub.com/sites/default/files/downloads/9781789802863_ColorImages.pdf).
 
 ### Related products <Other books you may enjoy>
-* Linux: Powerful Server Administration [[Packt]](https://www.packtpub.com/networking-and-servers/linux-powerful-server-administration?utm_source=github&utm_medium=repository&utm_campaign=9781788293778) [[Amazon]](https://www.amazon.com/dp/1788293770)
+* Python Data Analysis, Second Edition [[Packt]](https://www.packtpub.com/big-data-and-business-intelligence/python-data-analysis-second-edition?utm_source=github&utm_medium=repository&utm_campaign=9781787127487) [[Amazon]](https://www.amazon.com/dp/1787127486)
 
-* Linux Device Drivers Development [[Packt]](https://www.packtpub.com/networking-and-servers/linux-device-drivers-development?utm_source=github&utm_medium=repository&utm_campaign=9781785280009) [[Amazon]](https://www.amazon.com/dp/1788293770)
+* Linux Device Drivers Development [[Packt]](https://www.packtpub.com/big-data-and-business-intelligence/java-data-analysis?utm_source=github&utm_medium=repository&utm_campaign=9781787285651) [[Amazon]](https://www.amazon.com/dp/1787285650)
 
-## Get to Know the Author(s)
-**Author Name**
-Bio
+## Get to Know the Author
+**James Church**
+lives in Clarksville, Tennessee, United States, where he enjoys teaching, programming, and playing board games with his wife, Michelle. He is an assistant professor of computer science at Austin Peay State University. He has consulted for various companies and a chemical laboratory for the purpose of performing data analysis work. James is the author of Learning Haskell Data Analysis.
 
-**Author Name**
-Bio
 
 
 ## Other books by the authors
-* [Mastering Linux Network Administration](https://www.packtpub.com/networking-and-servers/mastering-linux-network-administration?utm_source=github&utm_medium=repository&utm_campaign=9781784399597)
-* [Linux Mint Essentials](https://www.packtpub.com/networking-and-servers/linux-mint-essentials?utm_source=github&utm_medium=repository&utm_campaign=9781782168157)
+* [Learning Haskell Data Analysis](https://www.packtpub.com/big-data-and-business-intelligence/learning-haskell-data-analysis?utm_source=github&utm_medium=repository&utm_campaign=9781784394707)
+
 
 ### Suggestions and Feedback
 [Click here](https://docs.google.com/forms/d/e/1FAIpQLSdy7dATC6QmEL81FIUuymZ0Wy9vH1jHkvpY57OiMeKGqib_Ow/viewform) if you have any feedback or suggestions.
