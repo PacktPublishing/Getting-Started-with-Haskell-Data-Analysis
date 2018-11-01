@@ -10,7 +10,7 @@ This is the code repository for [Getting Started with Haskell Data Analysis](htt
 ## What is this book about?
 Every business and organization that collects data is capable of tapping into its own data to gain insights how to improve. Haskell is a purely functional and lazy programming language, well-suited to handling large data analysis problems. This book will take you through the more difficult problems of data analysis in a hands-on manner.
 
-This book covers the following exciting features: <First 5 What you'll learn points>
+This book covers the following exciting features: 
 * Learn to parse a CSV file and read data into the Haskell environment
 * Create Haskell functions for common descriptive statistics functions
 * Create an SQLite3 database using an existing CSV file
