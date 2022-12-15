@@ -1,4 +1,16 @@
 
+### Get this product for $5
+
+<i>Packt is having its biggest sale of the year. Get this eBook or any other book, video, or course that you like just for $5 each</i>
+
+
+<b><p align='center'>[Buy now](https://packt.link/9781789802863)</p></b>
+
+
+<b><p align='center'>[Buy similar titles for just $5](https://subscription.packtpub.com/search)</p></b>
+
+
+
 # Getting Started with Haskell Data Analysis
 
 <a href="https://www.packtpub.com/big-data-and-business-intelligence/getting-started-haskell-data-analysis?utm_source=github&utm_medium=repository&utm_campaign=9781789802863"><img src="https://www.packtpub.com/sites/default/files/B12542.png" alt="Getting Started with Haskell Data Analysis" height="256px" align="right"></a>
